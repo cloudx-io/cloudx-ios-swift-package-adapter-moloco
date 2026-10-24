@@ -24,6 +24,7 @@ flag to retain the adapter registration code.
 
 | Package version | CloudX adapter | Moloco SDK |
 | --- | --- | --- |
+| `4110101.0.0` | `4.11.1.1` | `4.11.1` |
 
 The package installs CloudX Core and Moloco SDK as dependencies. Import
 `CloudXCore` in the application. The adapter registers when the application
