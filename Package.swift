@@ -20,14 +20,14 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/moloco/moloco-sdk-ios-spm.git",
-            exact: "4.11.1"
+            exact: "4.13.0"
         ),
     ],
     targets: [
         .binaryTarget(
             name: "CloudXMolocoAdapter",
-            url: "https://github.com/cloudx-io/cloudx-ios-swift-package-adapter-moloco/releases/download/binary/4110101.0.0/CloudXMolocoAdapter.xcframework.zip",
-            checksum: "126e40969405d28ddcd43316dc5573168e62d066377d9c795df43a6a10c8563e"
+            url: "https://github.com/cloudx-io/cloudx-ios-swift-package-adapter-moloco/releases/download/binary/4130000.0.0/CloudXMolocoAdapter.xcframework.zip",
+            checksum: "2fbcb5179015098455e2a1039ec4014cddca99bceaafab2edf01828ff7862698"
         ),
         .target(
             name: "CloudXMolocoAdapterPackage",
